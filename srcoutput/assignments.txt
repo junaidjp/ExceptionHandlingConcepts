@@ -1,0 +1,17 @@
+
+what is a exception ? 
+
+
+Why do you need exceptions ? 
+
+
+What is finally block ? 
+
+
+
+What is throws ? 
+
+
+Difference between throws and Throw ? 
+
+
